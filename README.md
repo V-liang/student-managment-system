@@ -1,18 +1,26 @@
 # Student Management System
-(Spring Boot + Thymeleaf)
 
 ## Introduction
 
-The Student Management System is a Spring Boot application designed to 
-simplify the process of managing student records for educational institutions. 
-It provides functionalities for adding, updating, deleting, and viewing student details.
+This project is a simple Student Management System web application that demonstrates the use of Spring Boot for the backend, 
+Thymeleaf for the front end, and MySQL as the database. It leverages Spring MVC for handling web requests and Spring Data JPA for data access. 
+It offers a comprehensive example of building a CRUD (Create, Read, Update, Delete) application in a modern Java development environment.
 
 ## Features
 
-- **Create**: Add new student records to the system.
-- **Read**: View a list of all students or details of a specific student.
-- **Update**: Modify existing student records.
-- **Delete**: Remove student records from the system.
+- **CRUD Operations**: Manage student records with functionalities to create, read, update, and delete student details.
+- **Dynamic Web Pages**: Render dynamic content on the web pages using Thymeleaf as the template engine.
+- **Database Integration**: Use MySQL to store and manage student data persistently.
+- **Form Handling**: Process form submissions for adding and editing student records.
+- **Data Validation**: Validate user input on the server side.
+
+## Technologies Used
+
+- **Backend**: Spring Boot
+- **Frontend**: Thymeleaf
+- **Database**: MySQL
+- **ORM**: Spring Data JPA
+- **Build Tool**: Maven
 
 ## Getting Started
 
