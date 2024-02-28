@@ -26,6 +26,6 @@ It offers a comprehensive example of building a CRUD (Create, Read, Update, Dele
 
 ### Prerequisites
 
-- Java JDK 11 or later
+- Java JDK 17 or later
 - Maven 3.6 or later
 - MySQL Server 8.0 or later
