@@ -1,5 +1,5 @@
 # Student Management System
-(Spring Boot + Thymeleaf
+(Spring Boot + Thymeleaf)
 
 ## Introduction
 
